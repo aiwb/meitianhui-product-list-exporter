@@ -1,0 +1,21 @@
+{
+  "name": "meitianhui_product_list_exporter",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "meitianhui": "bin/meitianhui"
+  },
+  "dependencies": {
+    "async": "^2.0.1",
+    "cheerio": "^0.19.0",
+    "colorful": "^2.1.0",
+    "exceljs": "^0.2.14",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "author": "wuwenbin",
+  "license": "MIT",
+  "keywords": [
+  ]
+}
